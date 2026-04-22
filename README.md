@@ -24,3 +24,5 @@
 - `predictive_maintenance.csv`: Файл с данными.
 - `README.md`: Описание проекта.
 - `video.mp4`: Видео-демонстрации реализации проекта
+## Видео демонстрация
+<video src="video.mp4" controls width="100%"></video>
