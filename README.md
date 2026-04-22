@@ -25,4 +25,4 @@
 - `README.md`: Описание проекта.
 - `video.mp4`: Видео-демонстрации реализации проекта
 ## Видео демонстрация
-[<video src="video.mp4" controls width="100%"></video>](https://drive.google.com/file/d/1WUWM6N4x0cT_JxK2M79kCXtSW4_Ms6L9/view?usp=drive_link)
+https://drive.google.com/file/d/1WUWM6N4x0cT_JxK2M79kCXtSW4_Ms6L9/view?usp=drive_link
