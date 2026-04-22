@@ -75,7 +75,7 @@ def analysis_and_model_page():
         elif model_name == "Random Forest":
             model = RandomForestClassifier(n_estimators=100, random_state=42, class_weight='balanced')
         elif model_name == "XGBoost":
-            model = XGBClassifier(n_estimators=100, learning_rate=0.1, random_state=42, use_label_encoder=False, eval_metric='logloss')
+            model = XGBClassifier(n_estimators=100, learning_rate=0.1, random_state=42, eval_metric='logloss')
         else:
             model = SVC(kernel='linear', random_state=42, probability=True, class_weight='balanced')
 
